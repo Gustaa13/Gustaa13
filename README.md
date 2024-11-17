@@ -24,7 +24,7 @@
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaa13&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
-💌 Você pode me contatar através do [LinkedIn](https://www.linkedin.com/in/gustavo-oliveira-de-freitas-43039427a/)) ou enviar um [email](mailto:gustavo.olliveira49@gmail.com).
+💌 Você pode me contatar através do [LinkedIn](https://www.linkedin.com/in/gustavo-oliveira-de-freitas-43039427a/) ou enviar um [email](mailto:gustavo.olliveira49@gmail.com).
 
 ### 🧩 Curiosidades
 - 🎮 Nos momentos de lazer, gosto de desenvolver projetos de **jogos** e aprender novas tecnologias.
