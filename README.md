@@ -21,6 +21,3 @@
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustaa13&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaa13&layout=compact&theme=radical)
-
-✨ **Obrigado por visitar meu perfil!** ✨
-
