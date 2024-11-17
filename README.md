@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Gustavo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gustavo-oliveira-de-freitas-43039427a/)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](emailto:gustavo.olliveira49@gmail.com)
-[![Currículo](https://img.shields.io/badge/-Meu%20Curr%C3%ADculo-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gustaa13.github.io/curriculo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gustavo-oliveira-de-freitas-43039427a/)
+[![Email](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gustavo.olliveira49@gmail.com)
+[![Currículo](https://img.shields.io/badge/-Meu%20Curr%C3%ADculo-1C1C1C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gustaa13.github.io/curriculo/)
 
 ## 🌐 Sobre mim
 - 🎓 Estudante de **Tecnologia da Informação**.
