@@ -9,7 +9,6 @@
 ## 🌐 Sobre mim
 - 🎓 Estudante de **Tecnologia da Informação**.
 - 💻 Atualmente, estou me aprofundando em **Desenvolvimento Web** e **Java**.
-- 🚀 Apaixonado por aprender e criar projetos que misturam **criatividade** e **técnica**.
 
 ---
 
