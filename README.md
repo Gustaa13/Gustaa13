@@ -1,23 +1,33 @@
-# 👋 Olá! Eu sou o Gustavo
+<h1>👋 Olá! Eu sou o Gustavo</h1>
+<div>
+  <a href="https://www.linkedin.com/in/gustavo-oliveira-de-freitas-43039427a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:gustavo.olliveira49@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://gustaa13.github.io/curriculo/" target="blank"><img src="https://img.shields.io/badge/-Meu%20Curr%C3%ADculo-1C1C1C?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gustavo-oliveira-de-freitas-43039427a/)
-[![Email](https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gustavo.olliveira49@gmail.com)
-[![Currículo](https://img.shields.io/badge/-Meu%20Curr%C3%ADculo-1C1C1C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gustaa13.github.io/curriculo/)
+<h2>🌐 Sobre mim</h2>
+<div>
+  <ul>
+    <li>🎓 Estudante de <strong>Tecnologia da Informação</strong>.</li>
+    <li>💻 Atualmente, estou me desenvolvendo em <strong>Desenvolvimento Web</strong> e <strong>Banco de dados</strong>.</li>
+  </ul>
+</div>
 
-## 🌐 Sobre mim
-- 🎓 Estudante de **Tecnologia da Informação**.
-- 💻 Atualmente, estou me aprofundando em **Desenvolvimento Web** e **Java**.
+<h2>🛠️ Tecnologias e Ferramentas</h2>
+<div>
+  <img src="https://img.icons8.com/?size=70&id=20909&format=png&color=000000" alt="HTML5"/>
+  <img src="https://img.icons8.com/?size=70&id=21278&format=png&color=000000" alt="CSS3"/>
+  <img src="https://img.icons8.com/?size=70&id=108784&format=png&color=000000" alt="JavaScript"/>
+  <img src="https://img.icons8.com/?size=70&id=TpULddJc4gTh&format=png&color=000000" alt="C++"/>
+  <img src="https://img.icons8.com/?size=70&id=40670&format=png&color=000000" alt="C"/>
+  <img src="https://img.icons8.com/?size=70&id=13679&format=png&color=000000" alt="Java"/>
+  <img src="https://img.icons8.com/?size=70&id=13441&format=png&color=000000" alt="Python"/>
+  <img src="https://img.icons8.com/?size=70&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL"/>
+</div>
 
-## 🛠️ Tecnologias e Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h2>📈 Estatísticas do GitHub</h2>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustaa13&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaa13&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
+</div>
 
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustaa13&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaa13&layout=compact&theme=radical)
