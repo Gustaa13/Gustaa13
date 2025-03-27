@@ -9,7 +9,7 @@
 <div>
   <ul>
     <li>🎓 Estudante de <strong>Tecnologia da Informação</strong>.</li>
-    <li>💻 Atualmente, estou me desenvolvendo em <strong>Desenvolvimento Web</strong> e <strong>Banco de dados</strong>.</li>
+    <li>💻 Atualmente, estou me aprimorando em <strong>Desenvolvimento Web</strong> e <strong>Banco de dados</strong>.</li>
   </ul>
 </div>
 
