@@ -1,8 +1,8 @@
 <h1>👋 Olá! Eu sou o Gustavo</h1>
 <div>
-  <a href="https://www.linkedin.com/in/gustavo-oliveira-de-freitas-43039427a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Linkedin"/></a>
-  <a href="mailto:gustavo.olliveira49@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/></a>
-  <a href="https://gustaa13.github.io/curriculo/" target="blank"><img src="https://img.shields.io/badge/-Meu%20Curr%C3%ADculo-1C1C1C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Currículo"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-oliveira-de-freitas-43039427a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Linkedin"/></a>
+  <a href="mailto:gustavo.olliveira49@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/></a>
+  <a href="https://gustaa13.github.io/curriculo/" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Curr%C3%ADculo-1C1C1C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Currículo"/></a>
 </div>
 
 <h2>🌐 Sobre mim</h2>
