@@ -26,6 +26,6 @@
 
 <h2>📈 Estatísticas do GitHub</h2>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustaa13&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaa13&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustaa13&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaa13&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
 </div>
