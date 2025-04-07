@@ -14,14 +14,17 @@
 
 <h2>🛠️ Tecnologias e Ferramentas</h2>
 <div>
+  
   <img src="https://img.icons8.com/?size=55&id=20909&format=png&color=000000" alt="HTML5"/>
   <img src="https://img.icons8.com/?size=55&id=21278&format=png&color=000000" alt="CSS3"/>
+  <img src="https://img.icons8.com/?size=55&id=CIAZz2CYc6Kc&format=png&color=000000" alt="Tailwindcss"/>
   <img src="https://img.icons8.com/?size=55&id=108784&format=png&color=000000" alt="JavaScript"/>
   <img src="https://img.icons8.com/?size=55&id=TpULddJc4gTh&format=png&color=000000" alt="C++"/>
   <img src="https://img.icons8.com/?size=55&id=40670&format=png&color=000000" alt="C"/>
   <img src="https://img.icons8.com/?size=55&id=13679&format=png&color=000000" alt="Java"/>
   <img src="https://img.icons8.com/?size=55&id=13441&format=png&color=000000" alt="Python"/>
   <img src="https://img.icons8.com/?size=55&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL"/>
+  
 </div>
 
 <h2>📈 Estatísticas do GitHub</h2>
