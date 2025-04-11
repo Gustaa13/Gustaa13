@@ -1,6 +1,6 @@
 
 <h2> 
-  <img src="https://img.icons8.com/?size=19&id=dlN23b953qvQ&format=png&color=000000" alt="Ícone de mão fazendo 'olá'"/> &nbsp;
+  <img src="https://img.icons8.com/?size=19&id=dlN23b953qvQ&format=png&color=000000" alt="Ícone de mão fazendo 'olá'"/> 
   Olá! Eu sou o Gustavo
 </h2> 
 <div>
@@ -9,18 +9,18 @@
 </div>
 
 <h2>
-  <img src="https://img.icons8.com/?size=19&id=103413&format=png&color=000000" alt="Ícone de Internet"/> &nbsp;
+  <img src="https://img.icons8.com/?size=19&id=103413&format=png&color=000000" alt="Ícone de Internet"/> 
   Sobre mim
 </h2>
 <div>
   <ul>
-    <li>🎓 Estudante de <strong>Tecnologia da Informação</strong>.</li>
-    <li>💻 Atualmente me aprofundando em tecnologias <strong>Frontend<strong/>.</li>
+    <li> 🎓 Estudante de <strong>Tecnologia da Informação</strong>.</li>
+    <li> 💻 Atualmente me aprofundando em tecnologias <strong>Frontend<strong/>.</li>
   </ul>
 </div>
 
 <h2>
-  <img src="https://img.icons8.com/?size=19&id=41888&format=png&color=000000" alt="Ícone de ferramenta"/> &nbsp;
+  <img src="https://img.icons8.com/?size=19&id=41888&format=png&color=000000" alt="Ícone de ferramenta"/> 
   Tecnologias e Ferramentas
 </h2>
 <p align="center">
@@ -33,13 +33,13 @@
     <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
   </div>
 
-  <h5 align="center"><i>< Backend /></i></h5>
+  <h5 align="center"><i>Backend;</i></h5>
   <div align="center">
     <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
     <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
   </div>
 
-  <h5 align="center"><i>< Outros /></i></h5>
+  <h5 align="center"><i>Outros</i></h5>
   <div align="center">
     <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=red" alt="Java"/>
@@ -50,7 +50,7 @@
 </p>
 
 <h2>
-  <img src="https://img.icons8.com/?size=19&id=RlXIngfmfHJq&format=png&color=228BE6" alt="Ícone de gráfico"/> &nbsp;
+  <img src="https://img.icons8.com/?size=19&id=RlXIngfmfHJq&format=png&color=228BE6" alt="Ícone de gráfico"/> 
   Estatísticas do GitHub
 </h2>
 <div align="center">
