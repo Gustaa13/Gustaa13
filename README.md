@@ -1,6 +1,6 @@
 
 <h2> 
-  <img src="https://img.icons8.com/?size=18&id=dlN23b953qvQ&format=png&color=000000" alt="Ícone de mão fazendo 'olá'"/> 
+  <img src="https://img.icons8.com/?size=17&id=dlN23b953qvQ&format=png&color=000000" alt="Ícone de mão fazendo 'olá'"/> 
   Olá! Eu sou o Gustavo
 </h2> 
 <div>
@@ -9,7 +9,7 @@
 </div>
 
 <h2>
-  <img src="https://img.icons8.com/?size=18&id=103413&format=png&color=000000" alt="Ícone de Internet"/> 
+  <img src="https://img.icons8.com/?size=17&id=103413&format=png&color=000000" alt="Ícone de Internet"/> 
   Sobre mim
 </h2>
 <div>
@@ -20,7 +20,7 @@
 </div>
 
 <h2>
-  <img src="https://img.icons8.com/?size=18&id=41888&format=png&color=000000" alt="Ícone de ferramenta"/> 
+  <img src="https://img.icons8.com/?size=17&id=41888&format=png&color=000000" alt="Ícone de ferramenta"/> 
   Tecnologias e Ferramentas
 </h2>
 <p align="center">
@@ -50,7 +50,7 @@
 </p>
 
 <h2>
-  <img src="https://img.icons8.com/?size=18&id=RlXIngfmfHJq&format=png&color=228BE6" alt="Ícone de gráfico"/> 
+  <img src="https://img.icons8.com/?size=17&id=RlXIngfmfHJq&format=png&color=228BE6" alt="Ícone de gráfico"/> 
   Estatísticas do GitHub
 </h2>
 <div align="center">
