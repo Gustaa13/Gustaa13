@@ -27,24 +27,25 @@
 
   <h5 align="center"><i>< Frontend /></i></h5>
   <div align="center">
-    <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8" alt="TailwindCSS"/>
-    <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=ff5722" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1976D2" alt="Typescript"/>
+    <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS"/>
   </div>
 
   <h5 align="center"><i>Backend;</i></h5>
   <div align="center">
-    <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+    <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django" alt="Django"/>
+    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=0277BD" alt="Python"/>
   </div>
 
   <h5 align="center"><i>Outros</i></h5>
   <div align="center">
-    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=red" alt="Java"/>
-    <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2b%2b&logoColor=00599C" alt="C++"/>
-    <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=018FB4" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"/>
+    <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2b%2b&logoColor=007AD9" alt="C++"/>
+    <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c" alt="C"/>
   </div>
 
 </p>
