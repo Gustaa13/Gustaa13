@@ -26,6 +26,7 @@
 <div align="center">
   <h5><i>< Frontend /></i></h5>
   <div>
+    <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react" alt="React"/>
     <img src="https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1976D2" alt="Typescript"/>
     <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5" alt="HTML5"/>
