@@ -26,6 +26,7 @@
 <div align="center">
   <h5><i>< Frontend /></i></h5>
   <div>
+    <img src="https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js" alt="Next.js"/>
     <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react" alt="React"/>
     <img src="https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1976D2" alt="Typescript"/>
     <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript"/>
@@ -36,16 +37,16 @@
 
   <h5><i>Backend;</i></h5>
   <div>
-    <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django" alt="Django"/>
-    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=0277BD" alt="Python"/>
-    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=018FB4" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"/>
+    <img src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apache-maven&logoColor=red" alt="Maven"/>
   </div>
 
   <h5><i>Outros</i></h5>
   <div>
-    <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"/>
+    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=0277BD" alt="Python"/> 
     <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2b%2b&logoColor=007AD9" alt="C++"/>
     <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c" alt="C"/>
+    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=018FB4" alt="MySQL"/>
   </div>
 </div>
 
