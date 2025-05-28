@@ -37,6 +37,7 @@
 
   <h5><i>Backend;</i></h5>
   <div>
+    <img src="https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot" alt="Spring"/>
     <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"/>
     <img src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apache-maven&logoColor=red" alt="Maven"/>
   </div>
