@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot" alt="Spring"/>
     <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"/>
     <img src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apache-maven&logoColor=red" alt="Maven"/>
+    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=018FB4" alt="MySQL"/>
   </div>
 
   <h5><i>Outros</i></h5>
@@ -47,7 +48,6 @@
     <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=0277BD" alt="Python"/> 
     <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2b%2b&logoColor=007AD9" alt="C++"/>
     <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c" alt="C"/>
-    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=018FB4" alt="MySQL"/>
   </div>
 </div>
 
