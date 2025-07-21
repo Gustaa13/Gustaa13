@@ -57,5 +57,5 @@
 </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustaa13&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaa13&layout=compact&langs_count=6&theme=dark&hide_border=true&size_weight=1&exclude_repo=Html-css" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaa13&layout=compact&langs_count=6&theme=dark&hide_border=true&size_weight=1" alt="Linguagens mais usadas"/>
 </div>
