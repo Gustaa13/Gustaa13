@@ -26,12 +26,13 @@
 <div align="center">
   <h5><i>< Frontend /></i></h5>
   <div>
+    <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular"/>
     <img src="https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js" alt="Next.js"/>
     <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react" alt="React"/>
     <img src="https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1976D2" alt="Typescript"/>
     <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3"/>
     <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS"/>
   </div>
 
