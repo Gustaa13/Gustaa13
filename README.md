@@ -15,7 +15,7 @@
 <div>
   <ul>
     <li> 🎓 Estudante de <strong>Tecnologia da Informação</strong>.</li>
-    <li> 💻 Atualmente me aprofundando em tecnologias <strong>Backend<strong/>.</li>
+    <li> 💻 Atualmente me aprofundando em mais tecnologias <strong>Frontend<strong/>.</li>
   </ul>
 </div>
 
