@@ -34,14 +34,15 @@
     <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3"/>
     <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS"/>
+    <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green" alt="Node.js"/>
   </div>
 
   <h5><i>Backend;</i></h5>
   <div>
     <img src="https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot" alt="Spring"/>
     <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"/>
-    <img src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apache-maven&logoColor=red" alt="Maven"/>
     <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=018FB4" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apache-maven&logoColor=red" alt="Maven"/>
   </div>
 
   <h5><i>Outros</i></h5>
